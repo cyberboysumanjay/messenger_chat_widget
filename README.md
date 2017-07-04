@@ -7,12 +7,12 @@ Simply copy files in script.md and paste it before the body tag is closed </body
 
 # Customisation
 You can edit Line number 28-34 to set duration and day of availability.</br>
-You can edit Time Zone using Line number 35.
-Edit line number 36 to your preferred location. Available values bottom_right(default),bottom_left,top_right,top_left
-You can edit line number 37 and 330 and replace 'imsumanjay' with your facebook username.
-//You can find username in your facebook profile. It is in this format https://facebook.com/imsumanjay
-You can change line number 38 to your facebook email. This helps when you are not available for chat.
-Configure availability from line number 40-46. Available values are true/false.
+Edit Time Zone using Line number 35.</br>
+Edit line number 36 to your preferred location. Available values bottom_right(default),bottom_left,top_right,top_left</br>
+You can edit line number 37 and 330 and replace 'imsumanjay' with your facebook username.</br>
+//You can find username in your facebook profile. It is in this format https://facebook.com/imsumanjay</br>
+You can change line number 38 to your facebook email. This helps when you are not available for chat.</br>
+Configure availability from line number 40-46. Available values are true/false.</br>
 
 # License
 
