@@ -6,7 +6,7 @@ Fork the repo.
 Simply copy files in script.md and paste it before the body tag is closed </body>.
 
 # Customisation
-You can edit Line number 28-34 to set duration and day of availability.
+You can edit Line number 28-34 to set duration and day of availability.</br>
 You can edit Time Zone using Line number 35.
 Edit line number 36 to your preferred location. Available values bottom_right(default),bottom_left,top_right,top_left
 You can edit line number 37 and 330 and replace 'imsumanjay' with your facebook username.
