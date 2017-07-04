@@ -21,7 +21,7 @@
     .fbmessenger img{width:50px;filter:drop-shadow(2px 6px 4px rgba(0,0,0,.3));-webkit-filter:drop-shadow(2px 6px 4px rgba(0,0,0,.3))}
     .tooltiptext{width:120px;background-color:#fff;color:#2c2c2c;text-align:center;padding:5px 0;border:1px solid #eee;border-radius:6px;position:fixed;bottom:30px;right:75px;font-family:inherit;font-size:inherit;text-transform:uppercase;filter:drop-shadow(2px 6px 4px rgba(0,0,0,.3));-webkit-filter:drop-shadow(2px 6px 4px rgba(0,0,0,.3))}
 </style>
-<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="http://sumanjay.000webhostapp.com/jquery-2.2.4.min.js"></script>
 <script type="text/javascript">
     $.noConflict();
 var ot = Array();
@@ -327,5 +327,4 @@ jQuery( document ).ready(function($) {
     $('#fb_link').click(linkHandler);
 });
 </script>
-<div class='code'> <a id="fb_link" href="http://m.me/imsumanjay" target="_blank" class="" style="display: inline;"><div class="fbmessenger wposbottom_right"><img id="img_msg" src="https://cdn.supple.com.au/wp-content/themes/supple/img/msg.png"><img id="img_email" src="https://cdn.supple.com.au/wp-content/themes/supple/img/emailc.png" style="display: none;"> <span class="tooltiptext wposbottom_right">Message Us</span></div> </a></div>
 <!--Facebook Chat Widget - Made by Sumanjay - http://sumanjay.me/ -->
